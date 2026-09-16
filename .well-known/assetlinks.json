@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yogaeka14.twa",
+        "sha256_cert_fingerprints": ["F3:42:2E:6D:78:94:70:14:E6:47:A8:6D:9C:12:54:23:F7:75:60:2B:5F:C9:EC:26:AB:9C:05:65:25:46:62:BD"]
+      }
+    }]
